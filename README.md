@@ -33,3 +33,8 @@ Game Server listing / advertising platform for Hytale (Hosted on AWS, MongoDB, S
 Centralized Single-Sign On for HytaleHub Network sites (Uses the PHP AWS SDK to customize AWS Cognito services, sends emails through AWS SMS, and process flow is controlled by custom AWS Lambda functions in Node.js)
 
 (Production) https://accounts.hytalehubnetwork.com/sign-in
+
+
+Work for Stark Nueroscience Research Institutes (Wordpress site for their graduate student applications).  This site was used by SNRI for their San Diego Nueroscience Convention but later removed by IU because it was not "official".  These are screenshots taken from my phone during development.
+
+https://imgur.com/a/6H62hjy
